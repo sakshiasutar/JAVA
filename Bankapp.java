@@ -1,6 +1,6 @@
 package bank;
 
-class Bankaccount {
+class bankAccount {
     private double balance;
 
     public Bankaccount(double openingbalance)
