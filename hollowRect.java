@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class hollowect {
+public class hollowRect {
     public static void main(String arg[]){
 
         int n=4;
