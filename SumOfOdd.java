@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class SumofOdd{
+public class SumfOdd{
     public static int sum_odd(int n)
     {
         int total = 0;
