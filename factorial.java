@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Factorial{
+public class factorial{
     public static void printFactorial(int n){
         if(n<0){
             System.out.println("Invalid number");
