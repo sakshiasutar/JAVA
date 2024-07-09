@@ -1,4 +1,4 @@
-package Java;
+package oops.abstraction;
 
 interface shapes{
 	double calculateArea(); // Abstract method

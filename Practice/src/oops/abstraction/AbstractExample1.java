@@ -1,4 +1,4 @@
-package Java;
+package oops.abstraction;
 
 abstract class Animal{
 	private String name;

@@ -1,4 +1,4 @@
-package Java;
+package oops.inheritance;
 
 class One{
 	public void printOne() {

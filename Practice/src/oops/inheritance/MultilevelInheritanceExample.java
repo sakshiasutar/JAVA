@@ -1,4 +1,4 @@
-package Java;
+package oops.inheritance;
 
 //Parent class
 class OneOne{

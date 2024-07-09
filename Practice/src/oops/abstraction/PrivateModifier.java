@@ -1,4 +1,4 @@
-package Java;
+package oops.abstraction;
 
 class A{
 	private int data = 10;
@@ -8,7 +8,7 @@ class A{
 }
 
 
-public class PrivateModi {
+public class PrivateModifier {
 	A obj = new A();
 //	System.out.println(obj.data); // It will give compile time error
 	

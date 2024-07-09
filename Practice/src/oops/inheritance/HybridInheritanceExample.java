@@ -1,4 +1,4 @@
-package Java;
+package oops.inheritance;
 
 class GrandFather{
 	public void showG() {

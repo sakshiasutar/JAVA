@@ -1,4 +1,4 @@
-package Java;
+package oops.abstraction;
 import java.util.Scanner;
 
 public class CountCharacter {

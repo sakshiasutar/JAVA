@@ -1,4 +1,4 @@
-package Java;
+package oops.inheritance;
 
 interface X{
 	public void execute();

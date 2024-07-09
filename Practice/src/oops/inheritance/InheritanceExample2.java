@@ -1,4 +1,4 @@
-package xyz;
+package oops.inheritance;
 
 //Base or Super Class
 class Employee{

@@ -1,4 +1,4 @@
-package xyz;
+package oops.encapsulation;
 
 class Helper1{
 	static int MultiplyOne(int a, int b) {

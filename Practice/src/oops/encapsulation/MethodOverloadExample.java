@@ -1,4 +1,4 @@
-package xyz;
+package oops.encapsulation;
 
 class Helper{
     
