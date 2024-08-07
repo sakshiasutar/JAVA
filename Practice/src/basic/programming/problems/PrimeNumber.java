@@ -1,4 +1,4 @@
-package basic.programming;
+package basic.programming.problems;
 
 public class PrimeNumber {
 

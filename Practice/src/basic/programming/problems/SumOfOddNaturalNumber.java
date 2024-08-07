@@ -1,21 +1,24 @@
-package basic.programming;
+package basic.programming.problems;
 
 import java.util.Scanner;
 
-public class SumOfNaturalNumbers {
+public class SumOfOddNaturalNumber {
 
 	public static void main(String[] args) {
+		
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the Number:");
 		int n = sc.nextInt();
-		int sum =0;
-		
+		int sum=0;
 		for(int i=1;i<=n;i++) {
+			if(i%2 != 0) {
 			sum = sum + i;
+			}
 		}
 		
-		System.out.println("Sum of First " + n + " Natural Number is : " + sum);
+		System.out.println("The Sum of First "+ n + " Odd Number is : " + sum);
 		
+
 	}
 
 }

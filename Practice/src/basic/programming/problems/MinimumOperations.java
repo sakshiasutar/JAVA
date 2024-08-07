@@ -1,6 +1,6 @@
 // Find Minimum Operations to Make All Elements Divisible by Three
 
-package basic.programming;
+package basic.programming.problems;
 
 import java.util.Scanner;
 
